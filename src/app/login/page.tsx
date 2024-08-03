@@ -48,5 +48,5 @@ export default function Login() {
                 <Messages/>
             </form>
         </div>
-    )
+    );
 }
