@@ -37,3 +37,4 @@ next-env.d.ts
 
 # JetBrains IDE folder
 .idea
+*storybook.log
